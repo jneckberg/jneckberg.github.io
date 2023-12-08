@@ -1,1 +1,0 @@
-[The dominant species *Solidago canadensis* structures multiple trophic levels in an old field ecosystem](Ecosphere - 2023 - Eckberg - The dominant plant species Solidago canadensis structures multiple trophic levels in an (3).pdf)
