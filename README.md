@@ -1,3 +1,3 @@
 # eckberg1.github.io
 
-[about me](index.md)
+[about me](aboutme.md)
