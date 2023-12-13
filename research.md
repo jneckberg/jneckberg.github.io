@@ -14,4 +14,4 @@ At the University of Michigan Biological Station in Pellston, Michigan I have es
 
 As part of the Plant Functional Traits Course, I have had the opportunity to work at the THREE-D experiment site in Aurland, Norway. In collaboration with researchers around the world, we developed a plant functional trait field collection strategy that would allow us to quantify the effect of mammalian grazing, nitrogen addition, and warming on plant functional diversity. 
 
-![norway](norway.jpg){: width="350px"}
+![norway](norway.JPG){: width="350px"}
