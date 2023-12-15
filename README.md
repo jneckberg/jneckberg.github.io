@@ -1,4 +1,4 @@
-# eckberg1.github.io
+# Julia N. Eckberg
 
 # About Me
 
