@@ -2,9 +2,4 @@ remote_theme: pages-themes/dinky
 plugins:
 - jekyll-remote-theme
 
-defaults:
-  -
-    scope:
-      path: "aboutme.md"
-    values:
-      layout: single
+title: Julia N. Eckberg
