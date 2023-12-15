@@ -1,6 +1,6 @@
 # Julia N. Eckberg
-
-[research](research.md)                  [publications](publications.md)
+[research](research.md)           
+[publications](publications.md)
 
 # About Me
 
