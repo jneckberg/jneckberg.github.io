@@ -1,8 +1,8 @@
 # Julia N. Eckberg
 
-# About Me
+[research](research.md)   [publications](publications.md)
 
-## Hello! My name is Julia Eckberg (she/her) 
+# About Me
 
 ![profile](website_profile.jpg){: width="350px"}
 
@@ -11,8 +11,7 @@ I am a PhD candidate at the University of Michigan working on plant community ec
 [CV](2024_CV.pdf)
 
 
-[about me](aboutme.md)
 
-[research](research.md)
 
-[publications](publications.md)
+
+
