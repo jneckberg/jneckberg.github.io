@@ -10,6 +10,8 @@ I am a PhD candidate at the University of Michigan working on plant community ec
 
 [**Publications**](publications.md)
 
+[**Contact**](contact.md)
+
 
 
 
