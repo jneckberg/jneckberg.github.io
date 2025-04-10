@@ -1,6 +1,8 @@
 # Publications
 
-1. Eckberg, J.N., Barrios-García, M.N., Rodríguez-Cabal, M.A., Sanders, N.J. In Review. Plant functional traits, but not community composition, are affected by summer precipitation and herbivory in an old-field ecosystem.
-2. Eckberg, J.N., Hubbard, A.K., Sanders, N.J. In Press. A dominant plant species and insects interactively shape plant community structure and an ecosystem function.
-3. [Eckberg, J. N., Hubbard, A., Schwarz, E. T., Smith, E. T., & Sanders, N. J. (2023). The dominant plant species Solidago canadensis structures multiple trophic levels in an old‐field ecosystem. Ecosphere, 14(1), e4393.](solidago.pdf)
+1. **Eckberg, J.N.**, Barrios-García, M.N., Rodríguez-Cabal, M.A., Sanders, N.J. In Revision. Plant functional traits, but not community composition, are affected by summer precipitation and herbivory in an old-field ecosystem.
+2. Erkelenz, J., Geange, S., Atkinson, J., Andersen, E.A.S., Correia, M., Ahler, S., Bradler, P.M., Löwenstein, C.E., Elsy, A., Maré, C., Eshelman, S.E., Mauki, D., Guclu, C., **Eckberg, J.N.**, Maitner, B.S., Gya, R., Toepper, J., Klanderud, K., Enquist, B., Michaletz, S., Ray, C., von Oppen, J., Padullés Cubino, J., Halbritter, A., Vandvik, V. In Review. Intraspecific functional trait responses to experimental warming varies with precipitation and functional groups.
+3. 4.	Halbritter, A., Atkinson, J., Maré, C., Ahler, S.J., Andersen, E.A.S., Bradler, P.M., Correia, M., Elsy, A., Eschelman, S.E., Geange, S., Hayden, M., Mauki, D., **Eckberg, J.N.**, Erkelenz, J., Guclu, C., Löwenstein, C.E., Maitner, B.S., Baumane, M., Dawson, H.R., Enquist, B., Garen, J.C., Holle, M.J.M., Chacon-Labella, J., Lepley, K., Michaletz, S.T., Olivier, B., Ray, C., von Oppen, J., Telford, R., Vandvik, V. In Review. Effects of warming, nitrogen, and grazing on plant functional traits differ between alpine and sub-alpine grasslands.
+4. [**Eckberg, J.N.**, Hubbard, A.K., Sanders, N.J. (2025). A dominant plant species and insects interactively shape plant community structure and an ecosystem function. Ecosphere, 16(3), e70201](solidago_2025.pdf)
+5. [**Eckberg, J. N.**, Hubbard, A., Schwarz, E. T., Smith, E. T., & Sanders, N. J. (2023). The dominant plant species Solidago canadensis structures multiple trophic levels in an old‐field ecosystem. Ecosphere, 14(1), e4393.](solidago.pdf)
 
