@@ -1,12 +1,20 @@
 ## Do insect herbivores affect the compensatory response of the rest of the plant community following dominant plant species loss? 
 
-Since 2021 in an old field at Matthaei Botanical Garden in Ann Arbor, I, along with several University of Michigan undergraduates, have been studying the effect of the dominant plant species *Solidago canadensis* (Canada goldenrod) on the rest of the plant community and associated arthropods using a dominant species removal experiment. More recently, I have been interested in the combined and potentially interactive effects of *S. canadensis* and insect herbivores on plant community structure and ecosystem function. In particular, I quantified the independent and interactive effects of *S. canadensis* removal and insect reduction on soil microclimate, light availability, plant functional traits, plant species richness, the decomposition rate of soil organic matter, and productivity. Given that we maintained this field experiment over multiple growing seasons, I further asked whether insect herbivores limit the compensatory response of remaining plant species following *S. canadensis* loss and whether *S. canadensis* and insects shape the temporal stability of plant richness and aboveground biomass.
+From 2021-2025, with the help of several University of Michigan undergraduates, I led a long-term field experiment at Matthaei Botanical Gardens in Ann Arbor investigating the combined and potentially interactive effects of the dominant plant species *Solidago canadensis* (Canada goldenrod) and insect herbivores on plant community structure and ecosystem function. I quantified the independent and combined effects of dominant species removal and insect reduction on a range of above- and below-ground characteristics, including:
+Soil microclimate and light availability
+     - Plant functional traits and species richness
+     - Aboveground productivity and decomposition rate of soil organic matter
+     - Soil microclimate and light availability
+After maintaining this field experiment over multiple growing seasons, I then tested whether insect herbivores constrain the compensatory response of the rest of the plant community following *S. canadensis* removal and whether *S. canadensis* and insect herbivores influence the temporal stability of plant richness and biomass.
 
 ![solidago](mat.JPG){: width="350px"}
 
 ## What are the combined and interactive effects of precipitation and insect herbivory on plant community structure and ecosystem function? 
 
-At the University of Michigan Biological Station in Pellston, Michigan I established a field experiment that tested the independent and combined effects of reduced summer precipitation and insect herbivory on plant community composition, the community weighted mean of a suite of plant functional traits, functional diversity, and productivity. In an old-field ecosystem, I constructed insect enclosures to control both the presence and density of a generalist insect herbivore. Above these enclosures, I constructed rainout shelters designed to intercept 50% of incoming precipitation to simulate future precipitation patterns in northern Michigan.
+At the University of Michigan Biological Station, I designed and implemented a field experiment to investigate the effects of altered precipitation and insect herbivory on plant community structure and productivity in an old-field ecosystem.To simulate future climate conditions, I constructed rainout shelters that reduced precipitation by 50%. Beneath these shelters, I built insect enclosures to manipulate herbivore presence and density. This fully factorial design allowed me to test the independent and interactive effects of precipitation change and insect herbivory on:
+     - Plant community composition
+     - Functional diversity
+     - Aboveground biomass
 
 ![umbs](umbs.jpg){: width="350px"}
 
